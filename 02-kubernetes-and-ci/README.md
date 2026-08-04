@@ -4,7 +4,7 @@ Canva에서 제작한 59페이지 발표자료를 바탕으로 컨테이너 이�
 
 > 발표자: 이현지
 
-- [Canva 원본 보기](https://www.canva.com/design/DAHRADfA-ZQ/3-BpkYJKbR9pjznWSN3k8Q/edit)
+- [Canva 원본 보기](https://canva.link/6olbn8mzozputy7)
 - [59페이지 발표자료 PDF 보기](./kubernetes-and-ci.pdf)
 
 ---
